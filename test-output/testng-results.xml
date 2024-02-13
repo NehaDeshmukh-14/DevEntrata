@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Opening Browser ]]>
+    </line>
+    <line>
+      <![CDATA[TC validate_Property_Manager_Login_Link_correctly_navigating_to_desired_Page Execution started]]>
+    </line>
+    <line>
+      <![CDATA[TC validate_Property_Manager_Login_Link_correctly_navigating_to_desired_Page Execution successful]]>
+    </line>
+    <line>
+      <![CDATA[TC validate_Property_Manager_Login_Link_correctly_navigating_to_desired_Page Execution Started]]>
+    </line>
+    <line>
+      <![CDATA[listener is running]]>
+    </line>
+    <line>
+      <![CDATA[Closing Browser ]]>
+    </line>
+    <line>
+      <![CDATA[Opening Browser ]]>
+    </line>
+    <line>
+      <![CDATA[TC Verify_Schedule_Demo_button_displaying Execution started]]>
+    </line>
+    <line>
+      <![CDATA[TC Verify_Schedule_Demo_button_displaying Execution successful]]>
+    </line>
+    <line>
+      <![CDATA[TC Verify_Schedule_Demo_button_displaying Execution Started]]>
+    </line>
+    <line>
+      <![CDATA[listener is running]]>
+    </line>
+    <line>
+      <![CDATA[Closing Browser ]]>
+    </line>
+    <line>
+      <![CDATA[Opening Browser ]]>
+    </line>
+    <line>
+      <![CDATA[TC validate_Sign_In_Button_Enabled_from_Home_Page Execution started]]>
+    </line>
+    <line>
+      <![CDATA[TC validate_Sign_In_Button_Enabled_from_Home_Page Execution successful]]>
+    </line>
+    <line>
+      <![CDATA[TC validate_Sign_In_Button_Enabled_from_Home_Page Execution Started]]>
+    </line>
+    <line>
+      <![CDATA[listener is running]]>
+    </line>
+    <line>
+      <![CDATA[Closing Browser ]]>
+    </line>
+    <line>
+      <![CDATA[Opening Browser ]]>
+    </line>
+    <line>
+      <![CDATA[TC validate_dispalyOf_Watch_Demo_button_From_Home_Page Execution started]]>
+    </line>
+    <line>
+      <![CDATA[TC validate_dispalyOf_Watch_Demo_button_From_Home_Page Execution successful]]>
+    </line>
+    <line>
+      <![CDATA[TC validate_dispalyOf_Watch_Demo_button_From_Home_Page Execution Started]]>
+    </line>
+    <line>
+      <![CDATA[listener is running]]>
+    </line>
+    <line>
+      <![CDATA[Closing Browser ]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-02-12T18:01:34 IST" name="Suite" finished-at="2024-02-12T18:02:16 IST" duration-ms="41514">
+    <groups>
+    </groups>
+    <test started-at="2024-02-12T18:01:34 IST" name="EntrataTest" finished-at="2024-02-12T18:02:16 IST" duration-ms="41514">
+      <class name="testNGTestCases.TC002_Validate_Elements_from_SignIn_Page">
+        <test-method is-config="true" signature="url_launch()[pri:0, instance:testNGTestCases.TC002_Validate_Elements_from_SignIn_Page@41d477ed]" started-at="2024-02-12T18:01:35 IST" name="url_launch" finished-at="2024-02-12T18:01:48 IST" duration-ms="13427" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Opening Browser ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- url_launch -->
+        <test-method signature="validate_Property_Manager_Login_Link_correctly_navigating_to_desired_Page()[pri:0, instance:testNGTestCases.TC002_Validate_Elements_from_SignIn_Page@41d477ed]" started-at="2024-02-12T18:01:48 IST" name="validate_Property_Manager_Login_Link_correctly_navigating_to_desired_Page" finished-at="2024-02-12T18:01:54 IST" duration-ms="5933" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TC validate_Property_Manager_Login_Link_correctly_navigating_to_desired_Page Execution started]]>
+            </line>
+            <line>
+              <![CDATA[TC validate_Property_Manager_Login_Link_correctly_navigating_to_desired_Page Execution successful]]>
+            </line>
+            <line>
+              <![CDATA[TC validate_Property_Manager_Login_Link_correctly_navigating_to_desired_Page Execution Started]]>
+            </line>
+            <line>
+              <![CDATA[listener is running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validate_Property_Manager_Login_Link_correctly_navigating_to_desired_Page -->
+        <test-method is-config="true" signature="close_URL()[pri:0, instance:testNGTestCases.TC002_Validate_Elements_from_SignIn_Page@41d477ed]" started-at="2024-02-12T18:01:54 IST" name="close_URL" finished-at="2024-02-12T18:01:54 IST" duration-ms="154" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closing Browser ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- close_URL -->
+      </class> <!-- testNGTestCases.TC002_Validate_Elements_from_SignIn_Page -->
+      <class name="testNGTestCases.TC001_Validate_Elements_On_HomePage">
+        <test-method is-config="true" signature="url_launch()[pri:0, instance:testNGTestCases.TC001_Validate_Elements_On_HomePage@4c12331b]" started-at="2024-02-12T18:02:02 IST" name="url_launch" finished-at="2024-02-12T18:02:09 IST" duration-ms="6449" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Opening Browser ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- url_launch -->
+        <test-method signature="validate_Sign_In_Button_Enabled_from_Home_Page()[pri:0, instance:testNGTestCases.TC001_Validate_Elements_On_HomePage@4c12331b]" started-at="2024-02-12T18:02:09 IST" name="validate_Sign_In_Button_Enabled_from_Home_Page" finished-at="2024-02-12T18:02:09 IST" duration-ms="109" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TC validate_Sign_In_Button_Enabled_from_Home_Page Execution started]]>
+            </line>
+            <line>
+              <![CDATA[TC validate_Sign_In_Button_Enabled_from_Home_Page Execution successful]]>
+            </line>
+            <line>
+              <![CDATA[TC validate_Sign_In_Button_Enabled_from_Home_Page Execution Started]]>
+            </line>
+            <line>
+              <![CDATA[listener is running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validate_Sign_In_Button_Enabled_from_Home_Page -->
+        <test-method is-config="true" signature="close_URL()[pri:0, instance:testNGTestCases.TC001_Validate_Elements_On_HomePage@4c12331b]" started-at="2024-02-12T18:02:09 IST" name="close_URL" finished-at="2024-02-12T18:02:09 IST" duration-ms="173" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closing Browser ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- close_URL -->
+        <test-method is-config="true" signature="url_launch()[pri:0, instance:testNGTestCases.TC001_Validate_Elements_On_HomePage@4c12331b]" started-at="2024-02-12T18:02:09 IST" name="url_launch" finished-at="2024-02-12T18:02:11 IST" duration-ms="1645" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Opening Browser ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- url_launch -->
+        <test-method signature="validate_dispalyOf_Watch_Demo_button_From_Home_Page()[pri:0, instance:testNGTestCases.TC001_Validate_Elements_On_HomePage@4c12331b]" started-at="2024-02-12T18:02:11 IST" name="validate_dispalyOf_Watch_Demo_button_From_Home_Page" finished-at="2024-02-12T18:02:16 IST" duration-ms="5051" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TC validate_dispalyOf_Watch_Demo_button_From_Home_Page Execution started]]>
+            </line>
+            <line>
+              <![CDATA[TC validate_dispalyOf_Watch_Demo_button_From_Home_Page Execution successful]]>
+            </line>
+            <line>
+              <![CDATA[TC validate_dispalyOf_Watch_Demo_button_From_Home_Page Execution Started]]>
+            </line>
+            <line>
+              <![CDATA[listener is running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validate_dispalyOf_Watch_Demo_button_From_Home_Page -->
+        <test-method is-config="true" signature="close_URL()[pri:0, instance:testNGTestCases.TC001_Validate_Elements_On_HomePage@4c12331b]" started-at="2024-02-12T18:02:16 IST" name="close_URL" finished-at="2024-02-12T18:02:16 IST" duration-ms="131" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closing Browser ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- close_URL -->
+      </class> <!-- testNGTestCases.TC001_Validate_Elements_On_HomePage -->
+      <class name="testNGTestCases.TC003_Validate_Resident_Page_Elements">
+        <test-method is-config="true" signature="url_launch()[pri:0, instance:testNGTestCases.TC003_Validate_Resident_Page_Elements@1165b38]" started-at="2024-02-12T18:01:54 IST" name="url_launch" finished-at="2024-02-12T18:02:01 IST" duration-ms="6949" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Opening Browser ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- url_launch -->
+        <test-method signature="Verify_Schedule_Demo_button_displaying()[pri:0, instance:testNGTestCases.TC003_Validate_Resident_Page_Elements@1165b38]" started-at="2024-02-12T18:02:01 IST" name="Verify_Schedule_Demo_button_displaying" finished-at="2024-02-12T18:02:02 IST" duration-ms="502" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TC Verify_Schedule_Demo_button_displaying Execution started]]>
+            </line>
+            <line>
+              <![CDATA[TC Verify_Schedule_Demo_button_displaying Execution successful]]>
+            </line>
+            <line>
+              <![CDATA[TC Verify_Schedule_Demo_button_displaying Execution Started]]>
+            </line>
+            <line>
+              <![CDATA[listener is running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify_Schedule_Demo_button_displaying -->
+        <test-method is-config="true" signature="close_URL()[pri:0, instance:testNGTestCases.TC003_Validate_Resident_Page_Elements@1165b38]" started-at="2024-02-12T18:02:02 IST" name="close_URL" finished-at="2024-02-12T18:02:02 IST" duration-ms="137" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closing Browser ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- close_URL -->
+      </class> <!-- testNGTestCases.TC003_Validate_Resident_Page_Elements -->
+    </test> <!-- EntrataTest -->
+  </suite> <!-- Suite -->
+</testng-results>
